@@ -8,7 +8,8 @@ Me considero una persona proactiva, me gustan los desafíos y aprender cosas nue
  
 [![image](https://user-images.githubusercontent.com/98785661/189455045-2ac08363-b9f0-4ba8-bb6f-63c2f0b4245a.png)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![image](https://user-images.githubusercontent.com/98785661/189455281-d20f19c7-5364-47f2-8f20-937d18fad520.png)](https://www.w3schools.com/css/)
-[![]github](https://cdn-icons-png.flaticon.com/512/733/733609.png)
+[![image](https://user-images.githubusercontent.com/98785661/189456053-1a9f396c-0bab-4f15-bb32-931a7977df2f.png)](https://git-scm.com/)
+[![image](https://user-images.githubusercontent.com/98785661/189455904-56201b49-51bf-41d0-8049-25325a0c3f86.png)](https://github.com/)
 [![image](https://user-images.githubusercontent.com/98785661/189455325-c4ee1c41-6084-4f7a-a017-930837d140b0.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![image](https://user-images.githubusercontent.com/98785661/189455384-7aab3b7d-5e07-4a3d-8536-8703d9694e60.png)](https://reactjs.org/)
 [![image](https://user-images.githubusercontent.com/98785661/189455429-6f716df7-3e74-4f16-98b1-acc61de3022e.png)](https://redux.js.org/)
