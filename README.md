@@ -4,6 +4,10 @@ Me considero una persona proactiva, me gustan los desafíos y aprender cosas nue
 
  👀 Me encuentro finalizando el Bootcamp en Henry en Desarrollo Web donde aprendí a trabajar tanto en Back-end como en Front-end.
  
+ ## Tech Skills
+ 
+[![image](https://user-images.githubusercontent.com/98785661/189455045-2ac08363-b9f0-4ba8-bb6f-63c2f0b4245a.png)](https://developer.mozilla.org/es/docs/Web/HTML)
+
  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
