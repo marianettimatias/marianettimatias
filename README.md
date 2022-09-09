@@ -19,14 +19,14 @@ Me considero una persona proactiva, me gustan los desafíos y aprender cosas nue
 
 [![image](https://user-images.githubusercontent.com/98785661/189455497-c2fa71ab-3d93-43bf-b585-872a8d2feb46.png)](https://www.postman.com/)
 
+## Contáctame
+
+[![image](https://user-images.githubusercontent.com/98785661/189456621-158cc584-5289-4b5d-9e1e-5e3b41009000.png)](https://www.linkedin.com/in/matias-marianetti/)
 
 
 
 
  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 marianettimatias/marianettimatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
