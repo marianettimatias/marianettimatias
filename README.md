@@ -22,8 +22,8 @@ Me considero una persona proactiva, me gustan los desafíos y aprender cosas nue
 ## Contáctame
 
 [![image](https://user-images.githubusercontent.com/98785661/189456621-158cc584-5289-4b5d-9e1e-5e3b41009000.png)](https://www.linkedin.com/in/matias-marianetti/)
-
-
+<br>
+Email: marianettimatiass@gmail.com
 
 
  
