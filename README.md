@@ -36,12 +36,10 @@ Combino habilidades analíticas, visión estratégica y gestión de proyectos pa
 
 ---
 
-## 📂 Proyectos en Desarrollo
+## 📂 Proyectos 
 
-🔹 Análisis exploratorio de datos con R  
-🔹 Dashboards interactivos en Power BI  
-🔹 Limpieza y transformación de datos  
-🔹 Casos prácticos aplicando metodología de gestión de proyectos  
+### Resolución de un caso práctico del curso de Análisis de Datos de Google brindado por Coursera.
+https://github.com/marianettimatias/Data-Analytics-Analisis-de-Datos-Capston-Bike-Share-Cyclistics.git
 
 ---
 
