@@ -39,7 +39,7 @@ Combino habilidades analíticas, visión estratégica y gestión de proyectos pa
 ## 📂 Proyectos 
 
 ### Resolución de un caso práctico del curso de Análisis de Datos de Google brindado por Coursera.
-https://github.com/marianettimatias/Data-Analytics-Analisis-de-Datos-Capston-Bike-Share-Cyclistics.git
+Repositorio: [Ver Proyecto](https://github.com/marianettimatias/Data-Analytics-Analisis-de-Datos-Capston-Bike-Share-Cyclistics.git)
 
 ---
 
