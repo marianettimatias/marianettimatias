@@ -13,10 +13,11 @@ Combino habilidades analíticas, visión estratégica y gestión de proyectos pa
 
 ## 🚀 Formación
 
+🎓 Ingeniero Industrial - Universidad Nacional de Córdoba, Argentina
 📊 Google Data Analytics Professional Certificate – Coursera  
 📁 Google Project Management Certificate – Coursera  
 📈 Power BI – Academia Mundos E  
-💻 Developer (JavaScript, HTML, CSS, React, Postman)
+💻 Developer (JavaScript, HTML, CSS, React, Postman) - Soy Henry
 
 ---
 
